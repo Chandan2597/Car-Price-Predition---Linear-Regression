@@ -1,3 +1,4 @@
+### <b> Introduction <b>
 In this project, I have developed a machine learning model to predict car prices using linear regression. The dataset used contains 205 rows and 25 columns, encompassing various features relevant to car pricing. The objective is to create a predictive model that accurately estimates the selling price of cars based on the provided attributes. This project includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation to ensure the model's effectiveness in real-world scenarios. <br>
 ### <b>Problem Statement</b>
 A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts.
